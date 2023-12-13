@@ -8,5 +8,6 @@ namespace git13.Models
 {
     internal class Students
     {
+        public int MSSV { get; set; }
     }
 }
